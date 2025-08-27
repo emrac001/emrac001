@@ -79,8 +79,7 @@
 ## 🚀 Featured Projects  
 
 ### 🌱 FarmVault - Solar Cold Storage Hub App (Tech4Harvest)
-*May, 2025*
-*A solution aimed at reducing post-harvest losses in Nigeria with a farmer-friendly
+*May, 2025<br>A solution aimed at reducing post-harvest losses in Nigeria with a farmer-friendly
 mobile-first application that connects farmers to nearby solar-powered cold
 storage hubs. I am passionate about applying technology to solve real-world
 challenges especially in agriculture, sustainability, and digital inclusion.*  
