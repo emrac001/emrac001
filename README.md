@@ -87,8 +87,8 @@ challenges especially in agriculture, sustainability, and digital inclusion.*
 ✔ Solution starts with a **click in the app**  
 ✔ Built with **user-centered design & empathy**  
 <ul>
-    Technologies: 
     <li>
+        Technologies: <br>
         HTML5 | CSS3 | JavaScript | Figma | Google Maps API | Firebase | Python | MySQL
     </li>
 </ul>
