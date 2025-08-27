@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Onaiwu Osazee Kenneth</h1>
-<h3 align="center">Software Engineer | Creative Problem-Solver | Community Builder</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Creative Problem-Solver | Community Builder</h3>
 
 <p align="center">
   <em>
