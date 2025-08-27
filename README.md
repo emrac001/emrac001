@@ -78,6 +78,34 @@
 
 ## 🚀 Featured Projects  
 
+### 📊 MyPayView - Escrow App (Personal Project)
+*Match, 2019<br>An escrow application developed to act as a trusted third party that collects, holds, and disburses funds when both a buyer and the seller are satisfied with their businesses with the aim of increasing the assurance of payment in a business transaction.*  
+✔ Enhanced Trust in Business Transactions
+✔ Business Assurance 
+✔ Real-world Impact
+✔ Tech Focus
+<ul>
+    <li>
+        Technologies: <br>
+        HTML5 | CSS3 | Bootstrap | JavaScript | AJAX | Python | Flask | MySQL
+    </li>
+</ul>
+<ul>
+    <li>
+        My Contributions: <br>
+        UI research and UI/UX design.<br>
+        Developed the user interface (frontend) using HTML5, CSS3, Bootstrap, JavaScript and AJAX.<br>
+        Planned and organized the database using MySQL.<br>
+        Connect, query, modify, and manage the database from the user interface (frontend) using Python, Flask, JavaScript, AJAX, and SQL queries.
+    </li>
+</ul>
+<a href="https://drive.google.com/file/d/1VPtB_w-i6MlmNBG8z8vJj4ZL9jJ6Ko8W/view?usp=sharing">Video Presentation</a>
+
+
+
+---
+
+
 ### 🌱 FarmVault - Solar Cold Storage Hub App (Tech4Harvest)
 *May, 2025<br>A solution aimed at reducing post-harvest losses in Nigeria with a farmer-friendly
 mobile-first application that connects farmers to nearby solar-powered cold
@@ -100,13 +128,15 @@ challenges especially in agriculture, sustainability, and digital inclusion.*
         Collaborated with 5 team members using Agile methodology.
     </li>
 </ul>
-<a href="https://drive.google.com/drive/folders/1UBCT4KX9fsZhUbsk4Gjwbo-LHU5WBiyV?usp=sharing">Project Prototype</a> | 
 <a href="https://docs.google.com/presentation/d/1qj23fOoQXm7joW3RCZthG0qNB4RF8blgw4FuZCXKrdE/edit?usp=sharing">Pitch Deck Slide</a> | 
-<a href="https://youtu.be/AZsPGOFfecE">Presentation Video</a>
-
+<a href="https://youtu.be/AZsPGOFfecE">Video Presentation</a> | 
+<a href="https://drive.google.com/drive/folders/1UBCT4KX9fsZhUbsk4Gjwbo-LHU5WBiyV?usp=sharing">Project Prototype</a>
 
 
 ---
+
+
+## 🚀 Upcoming Projects  
 
 ### 🏠 Airbnb Clone Project  
 *A full-stack clone of Airbnb*  
