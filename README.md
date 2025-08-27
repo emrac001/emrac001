@@ -44,20 +44,20 @@
 <div align="center">
 
 **Frontend Development**  
-<span>HTML / CSS</span>  
-<img src="https://progress-bar.dev/95/?width=400&color=E34F26" />  
+![HTML](https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge)  
 
 **JavaScript / React**  
-<img src="https://progress-bar.dev/80/?width=400&color=F7DF1E" />  
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 **Python**  
-<img src="https://progress-bar.dev/70/?width=400&color=3776AB" />  
+![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 **UI/UX (Figma, Design Thinking)**  
-<img src="https://progress-bar.dev/85/?width=400&color=F24E1E" />  
+![Figma](https://img.shields.io/badge/UI/UX-85%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 **Git / GitHub (Collaboration)**  
-<img src="https://progress-bar.dev/90/?width=400&color=181717" />  
+![GitHub](https://img.shields.io/badge/GitHub-90%25-181717?style=for-the-badge&logo=github&logoColor=white)  
+ 
 
 </div>
 
