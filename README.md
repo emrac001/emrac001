@@ -79,33 +79,35 @@
 ## 🚀 Featured Projects  
 
 ### 🌱 FarmVault - Solar Cold Storage Hub App (Tech4Harvest)
-<small>May, 2025</small>
-*A solution aimed at reducing post-harvest losses in Nigeria with a farmer-friendly
-mobile-first application that connects farmers to nearby solar-powered cold
-storage hubs. I am passionate about applying technology to solve real-world
-challenges especially in agriculture, sustainability, and digital inclusion.*  
-✔ Empowers farmers to reduce post-harvest losses  
-✔ Solution starts with a **click in the app**  
-✔ Built with **user-centered design & empathy**  
-<ul>
-    <li>
-        Technologies: <br>
-        HTML5 | CSS3 | JavaScript | Figma | Google Maps API | Firebase | Python | MySQL
-    </li>
-</ul>
-<ul>
-    <li>
-        My Contributions: <br>
-        Lead UI/UX design for core features like Cold Storage Finder and Reservation System.<br>
-        Developed a wireframe prototype using Figma and conducted user testing.<br>
-        Collaborated with 5 team members using Agile methodology.
-    </li>
-</ul>
-<a href="https://drive.google.com/drive/folders/1UBCT4KX9fsZhUbsk4Gjwbo-LHU5WBiyV?usp=sharing">Project Prototype</a> | 
-<a href="https://docs.google.com/presentation/d/1qj23fOoQXm7joW3RCZthG0qNB4RF8blgw4FuZCXKrdE/edit?usp=sharing">Pitch Deck Slide</a> | 
-<a href="https://youtu.be/AZsPGOFfecE">Presentation Video</a>
-
-
+<div>
+    <small>May, 2025</small>
+</div>
+<div>
+    *A solution aimed at reducing post-harvest losses in Nigeria with a farmer-friendly
+    mobile-first application that connects farmers to nearby solar-powered cold
+    storage hubs. I am passionate about applying technology to solve real-world
+    challenges especially in agriculture, sustainability, and digital inclusion.*  
+    ✔ Empowers farmers to reduce post-harvest losses  
+    ✔ Solution starts with a **click in the app**  
+    ✔ Built with **user-centered design & empathy**  
+    <ul>
+        <li>
+            Technologies: <br>
+            HTML5 | CSS3 | JavaScript | Figma | Google Maps API | Firebase | Python | MySQL
+        </li>
+    </ul>
+    <ul>
+        <li>
+            My Contributions: <br>
+            Lead UI/UX design for core features like Cold Storage Finder and Reservation System.<br>
+            Developed a wireframe prototype using Figma and conducted user testing.<br>
+            Collaborated with 5 team members using Agile methodology.
+        </li>
+    </ul>
+    <a href="https://drive.google.com/drive/folders/1UBCT4KX9fsZhUbsk4Gjwbo-LHU5WBiyV?usp=sharing">Project Prototype</a> | 
+    <a href="https://docs.google.com/presentation/d/1qj23fOoQXm7joW3RCZthG0qNB4RF8blgw4FuZCXKrdE/edit?usp=sharing">Pitch Deck Slide</a> | 
+    <a href="https://youtu.be/AZsPGOFfecE">Presentation Video</a>
+</div>
 
 ---
 
