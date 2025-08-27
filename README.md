@@ -80,10 +80,10 @@
 
 ### 📊 MyPayView - Escrow App (Personal Project)
 *Match, 2019<br>An escrow application developed to act as a trusted third party that collects, holds, and disburses funds when both a buyer and the seller are satisfied with their businesses with the aim of increasing the assurance of payment in a business transaction.*  
-✔ Enhanced Trust in Business Transactions
-✔ Business Assurance 
-✔ Real-world Impact
-✔ Tech Focus
+✔ Enhanced Trust in Business Transactions  
+✔ Business Assurance  
+✔ Real-world Impact  
+✔ Tech Focus  
 <ul>
     <li>
         Technologies: <br>
