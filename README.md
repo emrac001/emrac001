@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I’m Onaiwu Osazee Kenneth</h1>
-<h3 align="center">Frontend Developer | Creative Problem-Solver | Community Builder</h3>
+<h3 align="center">Software Engineer | Creative Problem-Solver | Community Builder</h3>
 
 <p align="center">
   <em>
     "I was born to solve real problems, not just chase money.  
     I build, lead, and provide for others.  
-    My purpose is bigger than fear, my family keeps me going, and freedom is my reward."  
+    My purpose is bigger than my fear, my family keeps me going, and freedom is my reward."  
   </em>
 </p>
 
@@ -13,7 +13,7 @@
 
 ## 🌟 About Me  
 
-- 💻 **Frontend Engineer** with hands-on experience in **HTML, CSS, JavaScript, Python, and AJAX**  
+- 💻 **Software Engineer/Full-Stack Developer** with hands-on experience in **HTML, CSS, JavaScript, Python, and AJAX**  
 - 🧠 Skilled in **research, debugging, creative thinking, and collaboration**  
 - 🎯 Passionate about **user-centered design, empathy, and community-driven technology**  
 - 📈 On the side: I explore **Forex trading** while focusing on **software engineering as my main career path**  
@@ -79,10 +79,20 @@
 ## 🚀 Featured Projects  
 
 ### 🌱 FarmVault (Tech4Harvest)  
-*Solar-powered cold storage + logistics app for farmers in Nigeria*  
+*A solution aimed at reducing post-harvest losses in Nigeria with a farmer-friendly
+mobile-first application that connects farmers to nearby solar-powered cold
+storage hubs. I am passionate about applying technology to solve real-world
+challenges especially in agriculture, sustainability, and digital inclusion.*  
 ✔ Empowers farmers to reduce post-harvest losses  
 ✔ Solution starts with a **click in the app**  
 ✔ Built with **user-centered design & empathy**  
+<ul>
+    Technologies: 
+    <li>
+        HTML5 | CSS3 | JavaScript | Figma | Google Maps API | Firebase | Python | MySQL
+    </li>
+</ul>
+
 
 ---
 
@@ -103,7 +113,7 @@
 ## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:osazeeonaiwu@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:osazee.onaiwu@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/osazee-onaiwu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/emrac001"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
